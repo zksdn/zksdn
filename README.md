@@ -1,3 +1,5 @@
-Curious about computers and programming for over a decade, professionally in the software industry since 2016.
+Tech Lead / Senior Software Engineer — Java, Spring, JavaScript/TypeScript, Angular & Vue.js and Ionic.
 
-Working with Java / JavaScript and related technologies.
+Curious about computers and programming since high school, starting in 2008 with algorithms and Pascal. 
+
+Professionally in software engineering since 2016, working mainly with Java, JavaScript/TypeScript, and related technologies.
